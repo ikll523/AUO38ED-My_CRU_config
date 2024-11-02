@@ -13,4 +13,4 @@
 4. Close CRU and Restart PC to change apply.
 5. Change refresh rate in Settings -> Display -> Advanced display.
 
-_I just made this because no one mentioned the AUO38ED monitor_
+_I just made this because I couldn't found nobody mentioned the AUO38ED monitor_
