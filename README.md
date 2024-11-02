@@ -7,7 +7,7 @@
 - 1920x1080 @ 100.003 Hz
 
 ## Usage
-1. Download [Custom Resolution Utility (CRU)](https://customresolutionutility.net/) and config from [here](aou38ed.bin).
+1. Download [Custom Resolution Utility (CRU)](https://customresolutionutility.net/) and config from [here](auo38ed.bin).
 2. Extract file and run CRU.exe.
 3. Click the "Import" and select file.
 4. Close CRU and Restart PC to change apply.
