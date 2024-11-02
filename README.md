@@ -1,4 +1,4 @@
-## My refresh rate config:
+## My AUO38ED refresh rate config:
 - 1920x1080 @ 40.064 Hz
 - 1920x1080 @ 48.041 Hz
 - 1920x1080 @ 60.052 Hz
