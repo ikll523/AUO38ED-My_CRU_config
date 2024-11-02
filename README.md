@@ -7,7 +7,7 @@
 
 ## Usage
 1. Download Custom Resolution Utility (CRU) from here: https://customresolutionutility.net/
-2. Extract and run CRU.exe
+2. Extract file and run CRU.exe
 3. Click the "Import" and select file
 4. Close CRU and Restart PC to change apply
 5. Change refresh rate in Settings -> Display -> Advanced display.
