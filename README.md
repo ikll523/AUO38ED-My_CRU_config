@@ -10,7 +10,7 @@
 1. Download [Custom Resolution Utility (CRU)](https://customresolutionutility.net/) and config from [here](auo38ed.bin).
 2. Extract file and run CRU.exe.
 3. Click the "Import" and select file.
-4. Close CRU and Restart PC to change apply.
+4. Click OK and run Restart64.exe or restart to change apply.
 5. Change refresh rate in Settings -> Display -> Advanced display.
 
 _I just made this because I couldn't found nobody mentioned the AUO38ED monitor_
